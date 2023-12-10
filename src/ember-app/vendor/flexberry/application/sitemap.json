@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "Test",
+  "applicationTitle": "Test",
+  "items": [
+    {
+      "link": null,
+      "menuName": "test",
+      "caption": "test",
+      "title": "test",
+      "children": [
+        {
+          "link": "i-i-s-test-паспортные-данные-l",
+          "menuName": null,
+          "caption": "паспортныеДанныеL",
+          "title": "Паспортные данные",
+          "children": null
+        },
+        {
+          "link": "i-i-s-test-сотрудники-l",
+          "menuName": null,
+          "caption": "СотрудникиL",
+          "title": "Сотрудники",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

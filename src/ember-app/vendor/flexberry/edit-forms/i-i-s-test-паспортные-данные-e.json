@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Паспортные данные",
+  "name": "IISTestпаспортныеДанныеE",
+  "className": "паспортныеДанныеE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-test-паспортные",
+      "modelProjection": "паспортныеДанныеE"
+    }
+  ]
+}

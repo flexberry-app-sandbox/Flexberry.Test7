@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-test-паспортные-данные-e",
+  "editForm": "i-i-s-test-паспортные-данные-e",
+  "external": false,
+  "caption": "Паспортные данные",
+  "name": "IISTestпаспортныеДанныеL",
+  "className": "паспортныеДанныеL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-test-паспортные",
+      "modelProjection": "паспортныеДанныеL"
+    }
+  ]
+}
